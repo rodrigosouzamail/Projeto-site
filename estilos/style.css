@@ -10,7 +10,11 @@ body {
 
 main {
     background-color: white;
+<<<<<<< Updated upstream
     width: 560px;
+=======
+    width: 700px;
+>>>>>>> Stashed changes
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -25,9 +29,13 @@ h2 {
     font-size: 1.5em;
     color: rgb(58, 0, 112);
 }
+p {
+    text-align: justify;
+}
 
 img.lado {
     float: right;
+    padding: 0px 5px 5px 5px;
 }
 
 a {
@@ -39,4 +47,10 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
+}
+
+iframe.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
