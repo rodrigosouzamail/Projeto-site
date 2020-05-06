@@ -8,8 +8,24 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+img#logoCursoVideo {
+    width: 100px;
+
+}
+
+
+h2 {
+   position: relative;
+}
+
+img.lado {
+    float: right;
+    width: 100px;
+}
+
+
